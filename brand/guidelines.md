@@ -57,6 +57,6 @@ facebook.com/vyvnnyc
 ## Font :page_facing_up:
 
 ## Photos :camera:
-candid, dreamy, natural light, ambient light at night
+candid, dreamy, natural light, ambient light in the dark
 
 See [vyvn.com](http://vyvn.com) for examples
