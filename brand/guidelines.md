@@ -7,14 +7,15 @@ Vyvn should be displayed in all lowercase unless used at the beginning of a sent
 
 ```
 vyvn #[number] - Name of Event
-```
+```  
+  
 
 **Correct Examples:**
 ```
 vyvn #3 - Precompression
 vyvn #4 - The Jaden
-```
-
+```  
+  
         
 **Incorrect Examples:**
 ```
