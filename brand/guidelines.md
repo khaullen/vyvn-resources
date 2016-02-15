@@ -24,7 +24,7 @@ vyvn #5 - Name Of Event
 ```
 
 ## Party Descriptions :sunglasses:
-These descriptions should be the same across social media: Eventbrite and Facebook.
+These descriptions should be the same across social media (Eventbrite, Facebook, etc).
 
 ```
 Hey [friends|lovelies],
