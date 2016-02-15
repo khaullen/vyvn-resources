@@ -59,4 +59,4 @@ facebook.com/vyvnnyc
 ## Photos :camera:
 candid, dreamy, natural light, ambient light in the dark
 
-See [vyvn.com](http://vyvn.com) for examples
+See [vyvn.com](http://vyvn.com) for examples.
