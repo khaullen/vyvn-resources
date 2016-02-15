@@ -4,7 +4,7 @@
 Vyvn should be displayed in all lowercase unless used at the beginning of a sentence. If possible, vyvn should be displayed in all lowercase on flyers and promotional items. Vyvn can be displayed in all uppercase if the promoter/flyer is displaying all artists and groups in uppercase.
 
 ## Party Names
-vyvn in all lowercase followed by a space, a `#` and the number for the event. The name for the event is in [title case](http://grammar-monster.com/lessons/capital_letters_title_case.htm). These two sections are separated by ` - `.
+vyvn in all lowercase followed by a space, a `#` and the number for the event. The name for the event is in [title case](http://grammar-monster.com/lessons/capital_letters_title_case.htm). These two sections are separated by `  -  `.
 
 ```
 vyvn #[number] - Name of Event
