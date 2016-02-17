@@ -1,6 +1,5 @@
 # Ticket Sale Information
 
-**Things to keep in mind:**
 1. There is no guarantee of getting a ticket in the sale. Tickets will likely sell out within an hour. There are problems with the ticketing website every year.
 2. The population cap is set by BLM and is limited by road capacity. This cap is about 65,000 people.
 3. It is much easier to sell a spare ticket than to find one to buy.
