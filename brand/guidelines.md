@@ -3,7 +3,7 @@
 ## vyvn :100:
 Vyvn should be displayed in all lowercase unless used at the beginning of a sentence. If possible, vyvn should be displayed in all lowercase on flyers and promotional items. Vyvn can be displayed in all uppercase if the promoter/flyer is displaying all artists and groups in uppercase.
 
-## Elevator Pitch
+## Elevator Pitch :ok_hand:
 Vyvn is a Burning Man camp of passionate artists, builders, and creators. We strive to create a lively and welcoming vibe in Black Rock City, New York City, or wherever we may be.
 
 ## Party Titles :tada:
