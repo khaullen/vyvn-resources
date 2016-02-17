@@ -14,7 +14,7 @@ Low Tier: $200
 Mid Tier: $400  
 High Tier: $600  
 
-## What does the camp provide?
+## Camp Amenities
 * Communal area with furniture
 * Sound system
 * Fire pit
