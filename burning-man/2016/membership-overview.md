@@ -1,4 +1,4 @@
-# Overview
+# Membership Overview
 
 ## Membership
 Vyvn is a Burning Man camp of passionate artists, builders and creators. We are looking for unique members who inspire others and are committed to the 10 principles of Burning Man.
