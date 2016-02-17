@@ -40,8 +40,8 @@ MUSIC
 [Link to artist soundcloud or page]
 
 Funktion-One by vyvn x PurpleSound
-Decor by [Artist Name]
-Visuals by [Artist Name]
+Decor by [Artist Name] ([Artist Affiliation])
+Visuals by [Artist Name] ([Artist Affiliation])
 
 Aesthetic expression and ornamental wardrobe highly encouraged.
 
