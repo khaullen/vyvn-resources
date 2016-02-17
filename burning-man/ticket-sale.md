@@ -1,5 +1,6 @@
 # Ticket Sale Information
 
+## Keep In Mind
 1. There is no guarantee of getting a ticket in the sale. Tickets will likely sell out within an hour. There are problems with the ticketing website every year.
 2. The population cap is set by BLM and is limited by road capacity. This cap is about 65,000 people.
 3. It is much easier to sell a spare ticket than to find one to buy.
@@ -38,7 +39,7 @@ Get your tickets delivered by mail if possible. The will call line could be upwa
 * Start packing…
 
 ## Recommended Reading
-http://tickets.burningman.org/
-https://ticketsupport.burningman.com/
-https://twitter.com/BManTickets
-https://eplaya.burningman.com/viewtopic.php?f=417&t=73040
+http://tickets.burningman.org/  
+https://ticketsupport.burningman.com/  
+https://twitter.com/BManTickets  
+https://eplaya.burningman.com/viewtopic.php?f=417&t=73040  
