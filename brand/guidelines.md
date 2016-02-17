@@ -32,11 +32,11 @@ Hey [friends|lovelies],
 [2 - 3 sentence description of the event]
 
 MUSIC
-(artists listed in order of set times - if set times are not known then just muffs + mykola should be below all others)
-[Artist Name] (Artist Affiliation - if they have one)
+(Note: artists listed in order of set times - if set times are not known then muffs + mykola should be below all others)
+[Artist Name] ([Artist Affiliation])
 [Link to artist soundcloud or page]
 
-[Artist Name] (Artist Affiliation - if they have one)
+[Artist Name] ([Artist Affiliation])
 [Link to artist soundcloud or page]
 
 Funktion-One by vyvn x PurpleSound
