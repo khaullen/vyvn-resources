@@ -21,6 +21,8 @@
     - 3: Majority of the following: Friendly, open, unique, self-reliant, proactive, contributive
     - 4: All of the above: Friendly, open, unique, self-reliant, proactive, contributive
 
+Total Score: x/12
+
 ## Balance:
 We will try our best to balance the following:
 * Gender (50%/50%) (20/20)
