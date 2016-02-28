@@ -14,18 +14,12 @@
        - e.g. filled a job slot (greeter/glitterer), helped with setup or teardown
     - 4: The party would not go on without this person
        - e.g. talent finder, logistics, decor
-* Alignment with Burning Man principles (1 - 4)
-   - Radical self-reliance
-   - Radical self-expression
-   - Communal effort
-   - Civic responsibility
-   - Leaving no trace
-   - Participation
-* Alignment with our core values  (1 - 4)
-    - Creativity
-    - Inclusiveness
-    - Participation
-    - Initiative
+* Alignment with Burning Man principles and vyvn core values (1 - 4)
+    - 1: Any of the the following: Close-minded, cliquey, apathetic, a freeloader
+        - Please come up with an example for one of these.
+    - 2: Some of the following or unclear: Friendly, open, unique, self-reliant, proactive, contributive
+    - 3: Majority of the following: Friendly, open, unique, self-reliant, proactive, contributive
+    - 4: All of the above: Friendly, open, unique, self-reliant, proactive, contributive
 
 ## Balance:
 We will try our best to balance the following:
