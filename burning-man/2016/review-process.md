@@ -17,7 +17,7 @@
 * Alignment with Burning Man principles and vyvn core values (1 - 4)
     - 1: Any of the the following: Close-minded, cliquey, apathetic, a freeloader
         - Please come up with an example.
-    - 2: Some of the following or unclear: Friendly, open, unique, self-reliant, proactive, contributive
+    - 2: Unclear (not enough information) or Some of the following: Friendly, open, unique, self-reliant, proactive, contributive
     - 3: Majority of the following: Friendly, open, unique, self-reliant, proactive, contributive
     - 4: All of the above: Friendly, open, unique, self-reliant, proactive, contributive
 
@@ -30,5 +30,6 @@ We will try our best to balance the following:
 ## Process
 * 7 people rank all applicants using the criteria above, keeping the balances in mind.
 * People selected by all 7 people are accepted.
-* People selected by 5 or 6 people are accepted - person will be discussed.
+* People selected by 6 people are accepted - each person will be discussed.
+* People selected by 5 people are accepted - each person will be discussed.
 * This will go on until 40 people are selected.
