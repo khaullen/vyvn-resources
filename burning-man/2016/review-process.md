@@ -17,10 +17,10 @@
     - 4: The party would not go on without this person
        - e.g. talent finder, logistics, decor
 * Alignment with Burning Man principles and vyvn core values (1 - 4)
-    - 1: Any of the the following: Close-minded, cliquey, apathetic, a freeloader
+    - 1: Has any of the following qualities: Close-minded, cliquey, apathetic, a freeloader
         - Please come up with an example.
-    - 2: Not enough information or Some of the following: Friendly, open, unique, self-reliant, proactive, contributive
-    - 3: Majority of the following: Friendly, open, unique, self-reliant, proactive, contributive
+    - 2: Not enough information or Has some of the following qualities: Friendly, open, unique, self-reliant, proactive, contributive
+    - 3: Has majority of the following: Friendly, open, unique, self-reliant, proactive, contributive
     - 4: All of the above: Friendly, open, unique, self-reliant, proactive, contributive
 
 Total Score: x/12
