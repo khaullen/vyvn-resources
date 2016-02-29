@@ -1,14 +1,16 @@
 ## Criteria
-* Previous contribution to a Burning Man camp (not necessarily vyvn) (1 - 4)
-   - 1: Little or no contribution, potentially new to Burning Man
+* Previous contribution to a Burning Man camp (not necessarily vyvn) (0 - 4)
+   - 0: Attended Burning Man and made no contribution
+   - 1: New to Burning Man
    - 2: Contributed to basic needs, did what was expected of them
        - e.g. helped with setup, teardown
    - 3: Executed a key function for the camp
        - e.g. made communal meals, setup the communal shade structure
    - 4: Went above and beyond basic responsibilities
        - e.g. yurt organization, sf building, early arrival
-* Contribution to vyvn NYC (1 - 4)
-    - 1: No contribution or attendance at vyvn events
+* Contribution to vyvn NYC (0 - 4)
+    - 0: Lives in NYC, no contribution or attendance
+    - 1: Lives outside of NYC, no contribution or attendance
     - 2: Attended 2 or more vyvn events
     - 3: Contributed to 1 or more vyvn events
        - e.g. filled a job slot (greeter/glitterer), helped with setup or teardown
@@ -17,7 +19,7 @@
 * Alignment with Burning Man principles and vyvn core values (1 - 4)
     - 1: Any of the the following: Close-minded, cliquey, apathetic, a freeloader
         - Please come up with an example.
-    - 2: Unclear (not enough information) or Some of the following: Friendly, open, unique, self-reliant, proactive, contributive
+    - 2: Not enough information or Some of the following: Friendly, open, unique, self-reliant, proactive, contributive
     - 3: Majority of the following: Friendly, open, unique, self-reliant, proactive, contributive
     - 4: All of the above: Friendly, open, unique, self-reliant, proactive, contributive
 
