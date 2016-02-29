@@ -29,7 +29,7 @@ Total Score: x/12
 We will try our best to balance the following:
 * Gender (50%/50%) (20/20)
 * New members to vyvn (25%) (10)
-* Virgins (20%) (8)
+* Virgins (10%) (4)
 
 ## Process
 * 7 current members rank all applicants using the rubric above, keeping the balances in mind.
