@@ -1,4 +1,4 @@
-## Criteria
+## Rubric
 * Previous contribution to a Burning Man camp (not necessarily vyvn) (0 - 4)
    - 0: Attended Burning Man and made no contribution
    - 1: New to Burning Man
@@ -19,7 +19,7 @@
 * Alignment with Burning Man principles and vyvn core values (1 - 4)
     - 1: Has any of the following qualities: Close-minded, cliquey, apathetic, a freeloader
         - Please come up with an example.
-    - 2: Not enough information or Has some of the following qualities: Friendly, open, unique, self-reliant, proactive, contributive
+    - 2: Not enough information or has some of the following qualities: Friendly, open, unique, self-reliant, proactive, contributive
     - 3: Has majority of the following: Friendly, open, unique, self-reliant, proactive, contributive
     - 4: All of the above: Friendly, open, unique, self-reliant, proactive, contributive
 
@@ -32,7 +32,7 @@ We will try our best to balance the following:
 * Virgins (20%) (8)
 
 ## Process
-* 7 current members rank all applicants using the criteria above, keeping the balances in mind.
+* 7 current members rank all applicants using the rubric above, keeping the balances in mind.
 * People selected by all 7 people are accepted.
 * People selected by 6 people are accepted - each person will be discussed.
 * People selected by 5 people are accepted - each person will be discussed.
