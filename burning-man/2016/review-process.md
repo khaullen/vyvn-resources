@@ -1,6 +1,6 @@
 ## Rubric
 * Previous contribution to a Burning Man camp (not necessarily vyvn) (0 - 4)
-   - 0: Attended Burning Man and made no contribution
+   - 0: Attended Burning Man with a camp and made no contribution
    - 1: New to Burning Man
    - 2: Contributed to basic needs, did what was expected of them
        - e.g. helped with setup, teardown
