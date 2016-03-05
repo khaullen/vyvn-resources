@@ -33,7 +33,4 @@ We will try our best to balance the following:
 
 ## Process
 * 7 current members rank all applicants using the rubric above, keeping the balances in mind.
-* People selected by all 7 people are accepted.
-* People selected by 6 people are accepted - each person will be discussed.
-* People selected by 5 people are accepted - each person will be discussed.
-* This will go on until 40 people are selected.
+* Compare scores from all reviewers and discuss discrepancies.
