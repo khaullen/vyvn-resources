@@ -1,27 +1,35 @@
 # Teams
 
-## Camp Application
+## Communal space + Fire pit
 
-## Communal space / Decor
+## Decor
+
+## Lighting
+
+## Shower
 
 ## Bar
 
 ## Kitchen / Food
 
-## Sanitation
-**garbage, recycling, grey water**
+## Water
 
-## LNT / Fire pit
+## Generator
 
-## Third-party Services
-**water, container, generator**
+## Social Team
 
-## Party Team
+## Talent Booking
 
-## Shipping Container
+## Packing
 
-## Housing
+## Shipping Container / Speakers
 
-## Gifts & Activities
+## Housing / Bikes / Virgin Helpers
 
-## Early Arrival
+## Gifts
+
+## Activities
+
+## Coffee bar
+
+## LNT
