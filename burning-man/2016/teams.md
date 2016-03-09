@@ -16,7 +16,7 @@
 
 ## Generator
 
-## Social Team
+## Social
 
 ## Talent Booking
 
