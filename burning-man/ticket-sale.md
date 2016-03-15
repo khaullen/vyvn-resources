@@ -21,6 +21,8 @@ Get your tickets delivered by mail if possible. The will call line could be upwa
 * Log in to your Burner Profile any time from 12pm PST 3/16 — 12pm PST 3/18 and pre-register for the individual sale.
 * Create a Ticketfly account and enter your shipping/billing addresses.
 * Make sure the credit or debit card you plan to use is a Visa or Mastercard.
+* Make sure your Ticketfly email matches your Burner Profile.
+* Make sure the name on the ticket matches the name on the credit card you are using. Each name/credit card cannot purchase more than 2 tickets.
 
 ## Day of Sale
 * Sale starts on 3/23 at 12pm PST / 3pm EST.
