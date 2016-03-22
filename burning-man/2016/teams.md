@@ -20,7 +20,7 @@
 
 ## Shower
 * [Team Lead] Lindsey Spry
-* Aaron Christopher
+* Krik Angacian
 
 ## Bar
 * [Team Lead] Colin Regan
@@ -58,8 +58,8 @@
 
 ## Packing
 * [Team Lead] Christopher Petrino
-* Krik Angacian
 * Shreyans Bhansali
+* Aaron Christopher
 
 ## Shipping Container / Speakers
 * [Team Lead] Julian Connor
