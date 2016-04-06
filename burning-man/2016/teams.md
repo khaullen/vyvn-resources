@@ -14,9 +14,8 @@
 * Lauren Sagadore
 
 ## Lighting
-* [Team Lead] Mykola Smith
+* [Team Lead] Jenny Kortina
 * James Morse
-* Jenny Kortina
 
 ## Shower
 * [Team Lead] Lindsey Spry
@@ -63,7 +62,6 @@
 
 ## Shipping Container / Speakers
 * [Team Lead] Julian Connor
-* Ryan Barth-Dwyer
 * Peter Nesbitt
 
 ## Housing / Bikes / Virgin Helpers
