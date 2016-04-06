@@ -32,7 +32,6 @@
 * Andrew Archer
 * Eric Galley
 * Austin Lite
-* Dan Oved
 * Erika Kuzmicz
 * Maria Timofeevna Kurilo
 * Kimberly Pettinato
@@ -53,7 +52,6 @@
 ## Talent Booking
 * [Team Lead] Mike Grosz
 * Julian Connor
-* Mykola Smith
 
 ## Packing
 * [Team Lead] Christopher Petrino
