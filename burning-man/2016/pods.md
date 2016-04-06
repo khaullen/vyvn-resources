@@ -1,34 +1,34 @@
-# Teams
+# Pods
 
 ## Communal space + Fire pit
-* [Team Lead] Andrew Kortina
+* [Lead] Andrew Kortina
 * Rob Cheung
 * Tyler O'Neill
 * Andrew Archer
 
 ## Decor
-* [Team Lead] Ali Macadoodle
+* [Lead] Ali Macadoodle
 * Emily Sause
 * Hokulani Gepp
 * Amanda Murray
 * Lauren Sagadore
 
 ## Lighting
-* [Team Lead] Jenny Kortina
+* [Lead] Jenny Kortina
 * James Morse
 
 ## Shower
-* [Team Lead] Lindsey Spry
+* [Lead] Lindsey Spry
 * Krik Angacian
 
 ## Bar
-* [Team Lead] Colin Regan
+* [Lead] Colin Regan
 * Or Brenner Ackerman
 * Adames Hodelin
 * Hilarie G Williams
 
 ## Kitchen / Food
-* [Team Lead] Tyler O'Neill
+* [Lead] Tyler O'Neill
 * Andrew Archer
 * Eric Galley
 * Austin Lite
@@ -38,11 +38,11 @@
 * Brittany Dove
 
 ## Water
-* [Team Lead] Liam Tyler Griffiths
+* [Lead] Liam Tyler Griffiths
 * Paul Stewart
 
 ## Generator
-* [Team Lead] Vincent Chavanon
+* [Lead] Vincent Chavanon
 * Jaymarc Iloreta
 
 ## Social
@@ -50,11 +50,11 @@
 * Evan P Cudworth
 
 ## Talent Booking
-* [Team Lead] Mike Grosz
+* [Lead] Mike Grosz
 * Julian Connor
 
 ## Packing
-* [Team Lead] Christopher Petrino
+* [Lead] Christopher Petrino
 * Shreyans Bhansali
 * Aaron Christopher
 
@@ -62,21 +62,23 @@
 * [Team Lead] Julian Connor
 * Peter Nesbitt
 
+## Yurts / Housing
+
 ## Housing / Bikes / Virgin Helpers
-* [Team Lead] Muge Erol
+* [Lead] Muge Erol
 * Mike Grosz
 
 ## Gifts
-* [Team Lead] Adam Fraser
+* [Lead] Adam Fraser
 * Hannah Gerry
 
 ## Activities
-* [Team Lead] Asha Gupta
+* [Lead] Asha Gupta
 * Alan O'Donnell
 * Michelle Ng
 
 ## Coffee bar
-* [Team Lead] Kevin Fusco
+* [Lead] Kevin Fusco
 
 ## LNT
 
