@@ -67,6 +67,7 @@
 ## Housing / Bikes / Virgin Helpers
 * [Lead] Muge Erol
 * Mike Grosz
+* Kevin Fusco
 
 ## Gifts
 * [Lead] Adam Fraser
@@ -76,9 +77,6 @@
 * [Lead] Asha Gupta
 * Alan O'Donnell
 * Michelle Ng
-
-## Coffee bar
-* [Lead] Kevin Fusco
 
 ## LNT
 
