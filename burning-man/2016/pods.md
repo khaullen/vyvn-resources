@@ -43,8 +43,8 @@
 ## Lighting
 
 ### Members
-* [Lead] Jenny Kortina
-* James Morse
+* [Lead] James Morse
+* Jenny Kortina
 
 ### Tasks
 
