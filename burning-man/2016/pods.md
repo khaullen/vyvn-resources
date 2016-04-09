@@ -1,10 +1,24 @@
 # Pods
 
-## Communal space + Fire pit
+## vyvn west - Communal space + Fire pit
+
+#### Team
 * [Lead] Andrew Kortina
 * Rob Cheung
 * Tyler O'Neill
 * Andrew Archer
+
+#### Tasks
+_Off playa_
+* Design communal shade structure
+* Design burn barrel
+* Put together supply list and budget
+* Build burn barrel
+* Gather furniture for communal shade
+
+_On playa_
+* Build communal shade structure
+* Setup fire pit
 
 ## Decor
 * [Lead] Ali Macadoodle
