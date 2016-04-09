@@ -45,6 +45,7 @@
 ### Members
 * [Lead] James Morse
 * Jenny Kortina
+* Lindsey Royce
 
 ### Tasks
 
