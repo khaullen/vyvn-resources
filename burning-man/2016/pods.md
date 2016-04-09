@@ -29,7 +29,7 @@
 * Hokulani Gepp
 * Amanda Murray
 * Lauren Sagadore
- 
+
 ### Tasks
 
 ##### Off playa
