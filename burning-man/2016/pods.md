@@ -216,7 +216,7 @@
 * Coordinate the shipping of the container
 
 ##### On playa
-Setup speakers
+* Setup speakers
 
 ## Housing / Bikes / Virgin Helpers
 
