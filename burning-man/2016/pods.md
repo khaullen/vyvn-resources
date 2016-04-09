@@ -157,7 +157,7 @@
 ## Social
 
 ### Members
-* [Team Lead] Jade Levinson
+* [Lead] Jade Levinson
 * Evan P Cudworth
 
 ### Tasks
@@ -202,7 +202,7 @@
 ## Shipping Container / Speakers
 
 ### Members
-* [Team Lead] Julian Connor
+* [Lead] Julian Connor
 * Peter Nesbitt
 * Mike Grosz
 
