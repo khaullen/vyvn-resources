@@ -267,6 +267,9 @@
 ##### On playa
 * Make sure activities go as planned
 
+## Fire Safety
+* Fire extinguishers
+
 ## Yurts / Housing
 
 ## LNT
@@ -274,3 +277,6 @@
 ## Grey Water
 
 ## Garbage/Recycling
+
+### Members
+* Hilarie G Williams
