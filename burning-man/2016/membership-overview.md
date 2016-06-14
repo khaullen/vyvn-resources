@@ -23,11 +23,13 @@ Mid Tier: $400
 High Tier: $600  
 
 ## Camp Amenities
-* Communal area with furniture
-* Sound system
-* Fire pit
-* Alcohol
-* Kitchen
-* Communal meals
-* Water
-* Sanitation (garbage, recycling, grey water, etc)
+- Water for the entire week
+- 3 communal meals and a shared pantry
+- Shipping all of our equipment, speakers, etc..
+- Full kitchen
+- 24/7 power
+- Shower
+- Communal shade and decor
+- Alcohol for our parties (not personal)
+- Gifts
+- Sanitation (garbage, recycling, grey water)
