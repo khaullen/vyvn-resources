@@ -20,6 +20,7 @@
 ##### On playa
 * Build communal shade structure
 * Setup fire pit
+* Fire safety
 
 ## Decor
 
@@ -266,9 +267,6 @@
 
 ##### On playa
 * Make sure activities go as planned
-
-## Fire Safety
-* Fire extinguishers
 
 ## Yurts / Housing
 
