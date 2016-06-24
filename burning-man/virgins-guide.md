@@ -30,16 +30,6 @@ Is used both as another term for Black Rock City or can specifically mean the ce
 **playa foot**  
 When you don’t properly clean the dust off of your feet and your feet turn into something disgusting. I don’t want to know what this looks like.
 
-## What will the camp provide (what are your dues going towards)?
-* Communal area with furniture
-* Sound system
-* Fire pit
-* Alcohol
-* Kitchen
-* Communal meals
-* Water
-* Sanitation (garbage, recycling, grey water, etc)
-
 ## What does theme camp placement get us? 
 **Placement**
 * A provided amount of space and specific spot on the map
@@ -52,15 +42,8 @@ When you don’t properly clean the dust off of your feet and your feet turn int
 * We’ll get a MOOP score in the end
     - If we do really shitty, they may not give us placement the next year
 
-## What happens if we don’t get placement?
-* We still go as a camp!
-* A few things change
-    - We don’t have early arrival so the UHauls will need to leave as early as possible on Sunday to get through the gates
-    - We’ll most likely be camping further out because we’ll need to just find open space to camp in
-
 ## The Map
 ![map](http://z9hbb3mwou383x1930ve0ugl.wpengine.netdna-cdn.com/wp-content/uploads/BRC2015.png)
-
 
 ## What to pack with you while you’re on the playa?
 You will need a backpack with you since you will be off for extended periods of time - going back to your camp is usually a trek.
