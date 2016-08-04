@@ -25,7 +25,6 @@
 - [ ] warm coat
 - [ ] winter hat
 - [ ] wide brimmed hat
-- [ ] windbreaker
 - [ ] extra socks
 - [ ] extra underwear
 - [ ] poncho/raincoat
