@@ -68,20 +68,8 @@
 - [ ] 1 plate (with your name on it)
 - [ ] 1 fork
 - [ ] 1 spoon
-- [ ] granola bars
 - [ ] vitamins/supplements
 - [ ] gum
-- [ ] 5-HTP
-- [ ] coffee/tea
-- [ ] fruit (canned/fresh/in little cups)
-- [ ] easy veggies (e.g. carrot sticks)
-- [ ] gatorade
-- [ ] instant noodles/rice
-- [ ] peanut butter/jelly
-- [ ] nuts
-- [ ] dried fruit/raisins 
-- [ ] alcoholic beverages
-- [ ] jerky
 
 ## Other
 - [ ] ID
@@ -90,7 +78,3 @@
 - [ ] cigarettes
 - [ ] notebook/sketchbook
 - [ ] pens/pencils
-- [ ] watergun
-- [ ] bubbles
-- [ ] games/dice/cards
-- [ ] musical instruments
