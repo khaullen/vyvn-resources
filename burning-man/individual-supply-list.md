@@ -67,12 +67,12 @@
 - [ ] 1 fork
 - [ ] 1 spoon
 - [ ] vitamins/supplements
-- [ ] gum
 
 ## Other
 - [ ] ID
 - [ ] ticket
 - [ ] camera
 - [ ] cigarettes
+- [ ] gum
 - [ ] notebook/sketchbook
 - [ ] pens/pencils
