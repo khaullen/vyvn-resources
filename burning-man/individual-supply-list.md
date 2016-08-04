@@ -35,7 +35,7 @@
 - [ ] lotion
 - [ ] tissues
 - [ ] towels
-- [ ] baby wipes
+- [ ] baby wipes (Pampers Sensitive)
 - [ ] toothbrush
 - [ ] toothpaste
 - [ ] dental floss
