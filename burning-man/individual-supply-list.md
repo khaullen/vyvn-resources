@@ -1,7 +1,6 @@
 # Individual Supply List
 
 ## Camping
-- [ ] tent 
 - [ ] air mattress
 - [ ] sleeping bag
 - [ ] pillow
