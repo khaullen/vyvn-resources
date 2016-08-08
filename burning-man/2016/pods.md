@@ -240,7 +240,6 @@
 
 ### Members
 * [Lead] Adam Fraser
-* Hannah Gerry
 
 ### Tasks
 
@@ -255,8 +254,6 @@
 ## Activities
 
 ### Members
-* [Lead] Asha Gupta
-* Alan O'Donnell
 * Michelle Ng
 
 ### Tasks
