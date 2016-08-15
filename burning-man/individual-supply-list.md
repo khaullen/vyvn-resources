@@ -7,7 +7,7 @@
 - [ ] pillowcases
 - [ ] [headlamp](http://www.amazon.com/gp/product/B009064MHW/ref=oh_details_o08_s00_i04?ie=UTF8&psc=1)
 - [ ] flashlight
-- [ ] small bike lock
+- [ ] [small bike lock](https://www.amazon.com/Wordlock-CL-409-BL-4-Letter-Combination-5-Feet/dp/B001AIVF4G) (words are easier to remember than numbers)
 - [ ] [camelbak/water bladder](http://www.rei.com/product/866421/platypus-big-zip-lp-reservoir-2-liter)
 - [ ] backpack
 - [ ] altoid case (for MOOP)
