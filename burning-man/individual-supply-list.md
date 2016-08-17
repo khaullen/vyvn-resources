@@ -1,28 +1,27 @@
 # Individual Supply List
 
 ## Camping
-- [ ] air mattress
-- [ ] sleeping bag
+- [ ] mattress pad
+- [ ] blanket
 - [ ] pillow
-- [ ] pillowcases
+- [ ] pillowcase
 - [ ] [headlamp](http://www.amazon.com/gp/product/B009064MHW/ref=oh_details_o08_s00_i04?ie=UTF8&psc=1)
 - [ ] flashlight
 - [ ] [small bike lock](https://www.amazon.com/Wordlock-CL-409-BL-4-Letter-Combination-5-Feet/dp/B001AIVF4G) (words are easier to remember than numbers)
-- [ ] large bike basket
 - [ ] [camelbak/water bladder](http://www.rei.com/product/866421/platypus-big-zip-lp-reservoir-2-liter)
 - [ ] backpack
 - [ ] altoid case (for MOOP)
 - [ ] water bottle
 - [ ] storage bins (to keep your clothes and supplies in)
 - [ ] large ziploc bags (to keep your clothes and supplies in)
+- [ ] USB chargers
 
 ## Clothing
 - [ ] comfortable boots/sneakers
-- [ ] [dust masks/respirator](http://www.amazon.com/gp/product/B000MPLVVA/ref=oh_details_o05_s00_i00?ie=UTF8&psc=1)
+- [ ] scarf
 - [ ] goggles (ski goggles work)
 - [ ] [LED lit clothing](http://www.amazon.com/gp/product/B003J98LZA/ref=oh_details_o08_s01_i00?ie=UTF8&psc=1)
 - [ ] sunglasses
-- [ ] thermals/tights/legwarmers
 - [ ] warm coat
 - [ ] winter hat
 - [ ] wide brimmed hat
@@ -41,26 +40,9 @@
 - [ ] toothbrush
 - [ ] toothpaste
 - [ ] dental floss
-- [ ] eyedrops
 - [ ] deodorant
-- [ ] condoms
-- [ ] lube
-- [ ] hairbrush
-- [ ] eye cover mask
-- [ ] earplugs
-- [ ] contacts/glasses
-- [ ] body wash
 - [ ] shampoo
-- [ ] conditioner
 - [ ] razors
-- [ ] shaving cream
-- [ ] nail clippers
-- [ ] hair ties
-- [ ] qtips
-- [ ] pee funnel
-- [ ] makeup
-- [ ] feminine products
-- [ ] birth control
 
 ## Kitchen
 - [ ] camping mug
@@ -68,7 +50,6 @@
 - [ ] 1 plate (with your name on it)
 - [ ] 1 fork
 - [ ] 1 spoon
-- [ ] vitamins/supplements
 
 ## Other
 - [ ] ID
